@@ -1,0 +1,3 @@
+a=int(inout("VALUE OF A"))
+b=int(inout("VALUE OF B"))
+print("a+b",a-b)
